@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anosha Dlair</h1>
 <h3 align="center">Passionate exploring the intersection of design and development.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
+<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 - I’m currently working on [targazing with Sound: AI-Based Sonification for the Visually Impaired](https://www.authorea.com/users/952143-anosha-dlair)
 
 - I’m currently learning **Data Science (Cisco Networking Academy) Greenhouse Gas Accounting React, GSAP, and Vue Leadership & Climate Negotiation (UNITAR, UNCC:Learn, HP Life)**
